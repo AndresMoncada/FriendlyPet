@@ -3,7 +3,7 @@ import "./Header.Module.css";
 
 const Headerpage = () => {
     return (
-        <div class="nav">
+        <header class="nav">
             <input type="checkbox" id="nav-check"></input>
             <div class="nav-header">
                 <div class="nav-title">
@@ -23,7 +23,7 @@ const Headerpage = () => {
                 <a href="#" target="self"><strong>Mascotas</strong></a>
                 <a href="#" target="self"><strong>Acerca de nosotros</strong></a>
             </div>
-        </div>
+        </header>
     )
 }
 
