@@ -1,4 +1,4 @@
-# Petfriendly
+# FriendlyPet
 (Crud simple de mascotas)
 Usando React Js y consumiendo la API de crudcrud.com
 
