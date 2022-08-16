@@ -27,7 +27,7 @@ export async function postPets(petData) {
 
 export async function deletePets(id){
     try{
-        const response= await axios.delete(`${baseURL}/Mascota`+id);
+        const response= await axios.delete(`${baseURL}/Mascota/`+id);
         return response;
         // console.log(`${baseURL}/pets/`+id);
     }catch(e){
