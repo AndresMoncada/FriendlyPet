@@ -25,6 +25,6 @@ Abrir [http://localhost:3000](http://localhost:3000) para ver de manera local.
 
 ## Aplicación desplegada en Vercel
 
-Aquí puede encontra un despliegue rápido de la aplicación front end haciendo uso de Vercel:
+Aquí puede encontrar un despliegue rápido de la aplicación front end haciendo uso de Vercel:
 
 ### [https://friendly-pet.vercel.app/]
