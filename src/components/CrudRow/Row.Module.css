@@ -1,0 +1,40 @@
+td {
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+    /* font-weight: 300; */
+    font-size: 14px;
+    color: #333;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+}
+
+
+button {
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    /* width: 30px;
+    height: 30px; */
+    padding: auto;
+    /* box-shadow: 2px 2px 2px #333; */
+}
+
+.buttons {
+    text-align: center;
+}
+ion-icon{
+    font-size: 22px;
+    color: #333;
+}
+
+ion-icon:hover{
+    color: rgb(255, 177, 32);
+}
+
+.buttonedit:hover {
+    color:rgb(0, 162, 255);
+}
+
+.buttondelete {
+    color: rgb(234, 116, 73);
+}
