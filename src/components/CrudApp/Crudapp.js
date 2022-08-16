@@ -42,7 +42,6 @@ const Crudapp = () => {
 
   return (
     <div className="pagebody">
-      <Headerpage />
 
       <div className="maincontainer">
         <div id="formspace" className="formspace">

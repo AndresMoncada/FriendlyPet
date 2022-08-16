@@ -1,14 +1,9 @@
-/* * {
-    box-sizing: border-box;
-} */
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    }
-body {
-    margin: 0px;
+*{
     font-family: 'segoe ui';
+}
+body {
+    margin:0px;
+    
     background: url("https://img.freepik.com/vector-premium/patron-fisuras-perros-doodle-blanco-negro_102034-127.jpg?w=740")
 
 }
@@ -16,12 +11,13 @@ body {
 .pagebody{
     background-color: rgba(51, 51, 51, 0.85);
     width: 100%;
-    margin-top: 0;
+    /* margin-top: 95px; */
+    min-height: 100%;
     bottom: 0;
     height:100%;
-    overflow: hidden;
-    padding:  100px 0px 50px 0px;
-    min-height: 100%;
+    /* overflow: hidden; */
+    padding:  100px 0px 100px 0px;
+    
 }
 .maincontainer{
     background-color: white;
